@@ -40,6 +40,7 @@
 
   
 <h2> Studying in this moment: </h2>
+
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
