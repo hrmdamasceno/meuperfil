@@ -5,8 +5,8 @@
 ---
 
 <div align="center">  
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=hrmdamasceno&hide_border=true&show_icons=true&count_private=true&title_color=000fff&icon_color=006fff&text_color=c9d1d9&bg_color=0d1117" alt="Hugo Damasceno github stats" />
-  <img width="49%" height="180px" src="https://github.com/hrmdamasceno/meuperfil/blob/c15d85309476c051fc783bd70f3335392d13f230/figs/HUGO.png" alt="Hugo Damasceno's Logo" style="border: 2px solid white;">
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=hugodamasceno&hide_border=true&show_icons=true&count_private=true&title_color=000fff&icon_color=006fff&text_color=c9d1d9&bg_color=0d1117" alt="Hugo Damasceno github stats" />
+  <img width="49%" height="180px" src="https://github.com/hugodamasceno/meuperfil/blob/c15d85309476c051fc783bd70f3335392d13f230/figs/HUGO.png" alt="Hugo Damasceno's Logo" style="border: 2px solid white;">
 </div>
 
 ---
@@ -16,7 +16,7 @@
 
 ---
 
-[![Hugo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrmdamasceno&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hugo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hugodamasceno&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2> Conecte-se comigo! </h2>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 <p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hrmdamasceno}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hugodamasceno}/count.svg" /></p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
